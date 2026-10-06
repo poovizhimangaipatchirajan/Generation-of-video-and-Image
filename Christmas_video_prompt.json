@@ -1,0 +1,50 @@
+{
+  "SCALE": {
+    "S": {
+      "subject": "A joyful American family celebrating Christmas together at home. Parents, grandparents, and children gathered around a beautifully decorated Christmas tree, wearing cozy winter clothing and festive Christmas sweaters. The family is diverse, warm, happy, and naturally interacting with one another."
+    },
+    "C": {
+      "composition": "Begin with a cinematic wide establishing shot of the warmly decorated living room, with the Christmas tree as the visual centerpiece. Slowly push the camera toward the family, followed by medium shots of family members exchanging gifts, close-ups of smiling faces and children's excited expressions, and detailed shots of Christmas decorations, wrapped presents, glowing tree lights, and festive food. Use smooth camera movement and natural framing."
+    },
+    "A": {
+      "action": "The family gathers around the Christmas tree, children excitedly open presents while parents and grandparents watch and laugh. Family members exchange hugs, share gifts, decorate the tree, and enjoy Christmas cookies and hot chocolate. One family member places the final ornament on the tree while everyone celebrates together. End with the entire family posing happily beside the glowing Christmas tree."
+    },
+    "L": {
+      "location": "A cozy suburban American home in the United States on Christmas Eve. A beautifully decorated living room with a traditional Christmas tree, fireplace, stockings hanging from the mantel, garlands, wreaths, warm lamps, wrapped presents, candles, and festive decorations. Snow is visible through the windows, creating a peaceful winter atmosphere outside."
+    },
+    "E": {
+      "esthetic": "Warm cinematic Christmas atmosphere, photorealistic visuals, cozy golden lighting, soft Christmas tree bokeh, realistic skin tones, natural facial expressions, detailed home interiors, subtle snowfall outside the windows, rich festive colors, soft shadows, shallow depth of field, gentle lens flare, realistic textures, premium holiday commercial aesthetic, emotionally heartwarming and nostalgic, 4K cinematic quality."
+    }
+  },
+  "video_parameters": {
+    "duration": "10 seconds",
+    "aspect_ratio": "16:9",
+    "camera_style": "smooth cinematic camera movement with slow dolly shots and gentle handheld moments",
+    "frame_rate": "24 fps with subtle slow motion during emotional moments",
+    "quality": "4K photorealistic",
+    "mood": "warm, joyful, cozy, festive, emotional, family-oriented",
+    "lighting": "warm fireplace glow combined with soft Christmas tree lights and natural cool moonlight from the windows",
+    "audio": "soft Christmas music, children's laughter, family conversations, wrapping paper sounds, fireplace crackling, and subtle winter ambience"
+  },
+  "negative_prompt": [
+    "cartoon",
+    "animation",
+    "unrealistic faces",
+    "distorted hands",
+    "extra fingers",
+    "extra limbs",
+    "deformed people",
+    "unnatural facial expressions",
+    "artificial-looking Christmas tree",
+    "overexposed lighting",
+    "harsh shadows",
+    "empty background",
+    "modern commercial setting",
+    "text overlays",
+    "watermarks",
+    "logos",
+    "low resolution",
+    "blurry faces",
+    "unnatural body movement"
+  ]
+}

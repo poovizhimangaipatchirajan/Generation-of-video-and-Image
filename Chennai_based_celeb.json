@@ -1,0 +1,110 @@
+{
+"SCALE": {
+"S": {
+"subject": "A cheerful multigenerational Tamil Christian family celebrating Christmas together inside their Chennai apartment. Grandparents, parents, young adults, and children are gathered together in a warm family atmosphere. Women wear colorful sarees and churidar outfits, men wear shirts with veshti or casual Indian clothing, and children wear festive Indian clothes. The family feels natural, affectionate, and relatable, like a typical Chennai household."
+},
+
+```
+"C": {
+  "composition": "A wide cinematic interior shot of a realistic Chennai apartment living room, showing the family gathered naturally around a modest Christmas tree. The composition includes the sofa, television unit, dining table, balcony, kitchen entrance, family photographs, and everyday household objects. The Christmas tree is an important focal point but does not dominate the entire frame. Use a slightly wide lens, natural perspective, layered foreground and background, realistic apartment proportions, and candid family positioning."
+},
+
+"A": {
+  "action": "The family celebrates Christmas together in a relaxed and joyful way. Children excitedly open small gifts near the Christmas tree while grandparents smile and watch. Parents arrange homemade Christmas cake and snacks on the dining table. Family members exchange gifts, laugh, talk, take family photographs, decorate the tree, light candles, and share food together. Some family members sit on the sofa while others move between the kitchen and living room. The celebration feels spontaneous and genuine rather than staged."
+},
+
+"L": {
+  "location": "A typical middle-class Chennai apartment in Tamil Nadu, India, during Christmas Eve or Christmas morning. The apartment has a compact but comfortable living room connected to a dining area and kitchen, with a small balcony overlooking neighboring apartment buildings. The interior has tiled flooring, simple painted walls, a sofa set, television cabinet, dining table, ceiling fan, curtains, family photographs, children's school items, everyday household objects, and modest furniture. The balcony and windows reveal a dense Chennai residential neighborhood."
+},
+
+"E": {
+  "esthetic": "Authentic Chennai Christmas atmosphere, photorealistic and warmly cinematic but not overly luxurious. Soft warm household lighting mixed with simple Christmas fairy lights, natural evening light, realistic apartment textures, everyday Indian household details, colorful clothing, modest Christmas decorations, warm family expressions, subtle red and green festive accents, homemade Christmas cake, candles, paper stars, and a small decorated Christmas tree. The overall visual should feel nostalgic, intimate, authentic, lived-in, and culturally grounded in urban Chennai."
+}
+```
+
+},
+
+"chennai_apartment_details": {
+"interior": [
+"typical Chennai apartment living room",
+"tiled flooring",
+"simple sofa set",
+"television unit",
+"ceiling fan",
+"curtains",
+"family photographs",
+"compact dining table",
+"visible kitchen entrance",
+"small apartment balcony",
+"everyday household objects"
+],
+"christmas_decorations": [
+"small Christmas tree",
+"warm fairy lights",
+"paper Christmas star",
+"simple wreath",
+"small nativity scene",
+"candles",
+"handmade ornaments",
+"modest wrapped gifts",
+"Christmas cake"
+],
+"family_clothing": [
+"colorful sarees",
+"simple churidar",
+"veshti and shirt",
+"casual Indian shirts and trousers",
+"festive Indian children's clothing"
+],
+"food": [
+"Christmas cake",
+"homemade snacks",
+"savory festive dishes",
+"tea or coffee",
+"soft drinks",
+"home-cooked family meal"
+]
+},
+
+"image_parameters": {
+"aspect_ratio": "16:9",
+"shot_type": "wide cinematic interior shot",
+"camera": "full-frame camera with a 24mm wide-angle lens",
+"camera_position": "eye-level from the far side of the living room",
+"perspective": "natural apartment perspective showing living room, dining area, kitchen entrance and balcony",
+"lighting": "warm indoor lighting with subtle Christmas fairy lights and soft Chennai evening light",
+"mood": "joyful, intimate, authentic, nostalgic, family-oriented",
+"visual_quality": "photorealistic, cinematic, natural textures, high detail, 4K"
+},
+
+"negative_prompt": [
+"luxury mansion",
+"large villa",
+"Western suburban house",
+"American Christmas interior",
+"European Christmas interior",
+"modern luxury apartment",
+"hotel-like interior",
+"oversized Christmas tree",
+"excessive Christmas decorations",
+"Santa Claus dominating the scene",
+"Western family appearance",
+"Western clothing",
+"perfect showroom interior",
+"empty apartment",
+"artificial commercial Christmas advertisement",
+"overly glamorous styling",
+"excessive red and green colors",
+"unrealistic apartment proportions",
+"distorted faces",
+"extra fingers",
+"extra limbs",
+"fisheye distortion",
+"warped walls",
+"cartoon",
+"illustration",
+"text",
+"watermark",
+"logo"
+]
+}
